@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "262667665478",
+    "firebase_url": "https://admin-fuel-drop-default-rtdb.firebaseio.com",
+    "project_id": "admin-fuel-drop",
+    "storage_bucket": "admin-fuel-drop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262667665478:android:b02b728ceb83a8eb388a47",
+        "android_client_info": {
+          "package_name": "com.example.adminfueldrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGv-DU5ajj5K3ra5Cw9w0w4PVcYCkSKU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262667665478:android:71f5dab3c9c53451388a47",
+        "android_client_info": {
+          "package_name": "com.example.fueldrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGv-DU5ajj5K3ra5Cw9w0w4PVcYCkSKU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
